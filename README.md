@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.web-developer-abhi.tk/](https://www.web-developer-abhi.tk/)
 
+- 🔥 I writes blogs here : [Dev Community](https://dev.to/abhidadhaniya23)
+
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **abhidadhaniya23@gmail.com**
