@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://www.web-developer-abhi.tk/](https://www.web-developer-abhi.tk/)
+- 👨‍💻 All of my projects are available at [https://web-developer-abhi.herokuapp.com/](https://www.web-developer-abhi.tk/)
 
-- 🔥 I writes blogs here : [Dev Community](https://dev.to/abhidadhaniya23)
+- 🔥 I writes blogs here : [Dev Community](https://web-developer-abhi.herokuapp.com/#latest-blogs)
 
 - 💬 Ask me about **javascript**
 
