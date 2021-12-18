@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://web-developer-abhi.herokuapp.com/](https://www.web-developer-abhi.tk/)
 
-- 🔥 I writes blogs here : [Blogs](https://web-developer-abhi.herokuapp.com/#latest-blogs)
+- 🔥 I writes blogs here : [Blogs](https://abhisblogs.hashnode.dev/)
 
 - 💬 Ask me about **javascript**
 
