@@ -1,13 +1,16 @@
 <h1 align="left">Hi 👋, I'm Abhi</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">Full-stack web developer who loves developing and learning.</h3>
+<h3 align="left"> I love building apps with APIs and MERN stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhidadhaniya23&label=Profile%20views&color=0e75b6&style=flat" alt="abhidadhaniya23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhidadhaniya3" target="blank"><img src="https://img.shields.io/twitter/follow/abhidadhaniya3?logo=twitter&style=for-the-badge" alt="abhidadhaniya3" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs and MongoDB**
+- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB and ReactJs to Complete MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://web-developer-abhi.herokuapp.com/](https://www.web-developer-abhi.tk/)
+
+- </> Get Web Development Resources for free in [Notion Page](https://web-dev-resources.notion.site/Web-Development-Resources-be1207bcc32e434481c1ce6e90756964)
 
 - 🔥 I writes blogs here : [Blogs](https://abhisblogs.hashnode.dev/)
 
