@@ -14,6 +14,8 @@
 
 - 🔥 I writes blogs here : [Blogs](https://abhisblogs.hashnode.dev/)
 
+-  🌈 Download My Resume : [Resume](https://download1648.mediafire.com/2s22ccc194xg/heskryofthlz4mh/resume.pdf) 
+
 - 💬 Ask me about **javascript**
 
 - 📫 How to reach me **abhidadhaniya23@gmail.com**
