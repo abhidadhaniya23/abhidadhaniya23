@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB and ReactJs to Complete MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://web-developer-abhi.herokuapp.com/](https://www.web-developer-abhi.tk/)
+- 👨‍💻 All of my projects are available at [https://www.web-developer-abhi.me](https://www.web-developer-abhi.me)
 
 - </> Get Web Development Resources for free in [Notion Page](https://web-dev-resources.notion.site/Web-Development-Resources-be1207bcc32e434481c1ce6e90756964)
 
