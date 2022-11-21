@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB and ReactJs to Complete MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://www.web-developer-abhi.me](https://www.web-developer-abhi.me) 
+- 👨‍💻 All of my projects are available at [https://www.abhidadhaniya.com/](https://www.abhidadhaniya.com/) 
 
 - We're providing services at affordable prices. For more info, visit our [gigaweb](https://www.gigaweb.in/)
 
@@ -16,7 +16,7 @@
 
 - 🔥 I writes blogs here : [Blogs](https://abhisblogs.hashnode.dev/)
 
--  🌈 Download My Resume : [Resume](https://www.web-developer-abhi.me/resume.pdf) 
+-  🌈 Download My Resume : [Resume](https://www.abhidadhaniya.com//resume.pdf) 
 
 - 💬 Ask me about **javascript**
 
