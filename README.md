@@ -16,7 +16,7 @@
 
 - 🔥 I writes blogs here : [Blogs](https://blogs.abhidadhaniya.com/)
 
--  🌈 Download My Resume : [Resume](https://www.abhidadhaniya.com//resume.pdf) 
+-  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
 
 - 💬 Ask me about **javascript**
 
