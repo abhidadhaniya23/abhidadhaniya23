@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">Hi 👋, I'm Abhi</h1>
-<h3 align="left">Full Stack Developer | Co-Founder of Gigaweb | Building Products | Learning, Building, Growing.</h3>
+<h3 align="left">Full Stack Developer | Co-Founder of Gigaweb | Building Products | Learning, Building, Selling, Growing.</h3>
 <h3 align="left"> I love building the real world products.</h3>
 
 - ✨ I’m currently learning **DevOps** and working on some **Products** and projects of clients.
@@ -14,7 +14,9 @@
 
 - </> Get Web Development Resources for free in [Notion Page](https://web-dev-resources.notion.site/Web-Development-Resources-be1207bcc32e434481c1ce6e90756964)
 
-- 🔥 I writes blogs here : [Blogs](https://blogs.abhidadhaniya.com/)
+- 👀 We've also created resources for developers and creators at [GigaResources.xyz](https://gigaresources.xyz/)
+
+- 🔥 I writes blogs at [blogs.abhidadhaniya.com](https://blogs.abhidadhaniya.com/)
 
 -  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
 
