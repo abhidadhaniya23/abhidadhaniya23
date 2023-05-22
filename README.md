@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"  />
-</div>
+<!-- <div align="center">
+  <img height="600" src="https://images.anandtech.com/doci/17429/WWDC22_Carousel_678x452.jpg"  />
+</div> -->
 
 <h1 align="left">Hi 👋, I'm Abhi</h1>
 <h3 align="left">Full Stack Developer | Co-Founder of Gigaweb | Building Products | Learning, Building, Selling, Growing.</h3>
