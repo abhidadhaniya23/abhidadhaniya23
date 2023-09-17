@@ -16,7 +16,7 @@
 
 - 👀 We've also created resources for developers and creators at [GigaResources.xyz](https://gigaresources.xyz/)
 
-- 🔥 I writes blogs at [blogs.abhidadhaniya.com](https://blogs.abhidadhaniya.com/)
+- 🔥 I write blogs at [blogs.abhidadhaniya.com](https://blogs.abhidadhaniya.com/)
 
 -  🌈 Download My Resume : [Resume](https://rxresu.me/abhidadhaniya23/abhi-resume) 
 
