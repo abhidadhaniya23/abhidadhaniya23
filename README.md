@@ -5,7 +5,9 @@
 <h1 align="left">Hi 👋, I'm Abhi</h1>
 <h3 align="left">Full Stack Developer</h3>
 
-- 👨‍💻 All of work, journey and blogs are available at [abhidadhaniya.com](https://www.abhidadhaniya.com/) 
+- 👨‍💻 All of work, journey and blogs are available at [abhidadhaniya.com](https://www.abhidadhaniya.com/)
+
+- 🚀 I'm currently working at [Dhiwise](https://www.dhiwise.com)
 
 - </> Get Web Development Resources for free in [Notion Page](https://web-dev-resources.notion.site/Web-Development-Resources-be1207bcc32e434481c1ce6e90756964)
 
